@@ -1,0 +1,25 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "mcws Team Addon",
+        "description": "by hika0908",
+        "uuid": "3277f145-ebe9-458c-a143-f8f850411e10",
+        "version": [0, 1, 0],
+        "min_engine_version": [1, 20, 40]
+    },
+    "modules": [
+        {
+            "description": "Script module",
+            "type": "script",
+            "uuid": "1cba2882-f124-4c13-8781-2f9b118774b3",
+            "version": [0, 1, 0],
+            "entry": "scripts/main.js"
+        }
+    ],
+    "dependencies": [
+        {
+            "module_name": "@minecraft/server",
+            "version": "3.0.0-alpha"
+        }
+    ]
+}
