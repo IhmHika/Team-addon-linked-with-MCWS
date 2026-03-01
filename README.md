@@ -3,8 +3,8 @@ MCWSに対応したチームアドオン
 
 
 チームタグ↓
-aqua
-red
+aqua\n
+red\n
 black
 blue
 dark_aqua
