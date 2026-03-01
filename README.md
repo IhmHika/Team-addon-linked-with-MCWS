@@ -1,5 +1,13 @@
 # Team-addon-linked-with-MCWS
-MCWSに対応したチームアドオン
+MCWSに対応したチームアドオンです
+
+/tcでチームチャット切り替え、
+/tag @s add チームタグ
+
+/tag @s remove チームタグ
+
+で切り替え可能
+
 
 
 チームタグ↓
