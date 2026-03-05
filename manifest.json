@@ -1,9 +1,9 @@
 {
     "format_version": 2,
     "header": {
-        "name": "mcws Team Addon v1.3",
+        "name": "mcws Team Addon v1.5",
         "description": "by hika0908",
-        "uuid": "203e9bb5-af57-4bec-8d96-a56bdfca1663",
+        "uuid": "55d379a1-479a-4860-ba49-c7affcdba280",
         "version": [0, 1, 0],
         "min_engine_version": [1, 20, 40]
     },
@@ -11,7 +11,7 @@
         {
             "description": "Script module",
             "type": "script",
-            "uuid": "c0cf8e6e-bbec-43a1-a920-27cb9f29338e",
+            "uuid": "9ecf86f5-e435-4de1-b39f-2bee9ec800ee",
             "version": [0, 1, 0],
             "entry": "scripts/main.js"
         }
